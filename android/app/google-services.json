@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "518992366004",
+    "firebase_url": "https://deflon-95398.firebaseio.com",
+    "project_id": "deflon-95398",
+    "storage_bucket": "deflon-95398.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518992366004:android:9380a9fa4cef2bb4",
+        "android_client_info": {
+          "package_name": "com.heritagecares.deflon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518992366004-80qe0spjitg7jji26vv7beecn9d0pc7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi6mwFlJ6Mf1a7vOx-ENH2Cxq7xwpW8kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518992366004-80qe0spjitg7jji26vv7beecn9d0pc7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
